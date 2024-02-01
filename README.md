@@ -1,5 +1,13 @@
 # RAG-implemened
-Just trying to implement RAG myself and will scale this work for more complex tasks.
+
+A simple prototype version of RAG process. This goes through all the basic steps of:
+
+1. Getting data (HTML in my case).
+2. Processing data.
+3. Creating Documents or just small chunks.
+4. Creating word embedding and storing them in a vector database.
+5. Retrieveing the data and creating a prompt for Chatgpt.
+6. Generating response or answer based on context.
 
 # HTML web Crawler: For now this is empty will add later
 
