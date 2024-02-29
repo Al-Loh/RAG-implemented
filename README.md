@@ -1,4 +1,4 @@
-# RAG-implemened
+# RAG-implemented
 
 A simple prototype version of RAG process. This goes through all the basic steps of:
 
